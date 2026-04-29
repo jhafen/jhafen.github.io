@@ -20,4 +20,4 @@ knitr::include_graphics('headshot_2025.jpg')
 
 Welcome to my website! Feel free to explore my research, resume, and my final project for BIOL 3100 (Data Analysis for Biologists). 
 
-Any questions? Email jake.hfn@gmail.com for further inquiries.
+Any questions? Send me an email at jake.hfn@gmail.com for further inquiries.
