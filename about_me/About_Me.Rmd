@@ -28,7 +28,7 @@ As part of the Microbial Genetics course (MICR3650), we began a research project
 
 ### iGEM 2026
 
-After a year off, UVU has decided to field another iGEM team with Dr. Eric Domyan and Dr. Colleen Hough taking lead again. This year's project is again working with *Chlamydomonas reinhardtii* but we are instead working on the degradation of atrazine, a common herbicide that has been identified as an endocrine-disruptor and a persistent environmental pollutant. We are in the early stages of research at this point in time and my [BIOL3100 final project](./final_project/final_project.html) is about our research.
+After a year off, UVU has decided to field another iGEM team with Dr. Eric Domyan and Dr. Colleen Hough taking lead again. This year's project is again working with *Chlamydomonas reinhardtii* but we are instead working on the degradation of atrazine, a common herbicide that has been identified as an endocrine-disruptor and a persistent environmental pollutant. We are in the early stages of research at this point in time and my [BIOL3100 final project](./final_project/Final_Project.html) is about our research.
 
 
 [Return to homepage](../index.html)
