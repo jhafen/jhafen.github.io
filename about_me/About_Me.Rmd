@@ -24,7 +24,7 @@ Ovarian cancer is a prevalent and deadly gynecological cancer that often goes un
 
 ### American Chestnut 
 
-As part of the Microbial Genetics course (MICR3650), we began a research project to address the near functional extinction of the American Chestnut, *Castanea dentata*, in its native range, under the direction of Dr. Margie Beucher. This ecosystem-altering change was brought about by chestnut blight, a disease caused by the fungal pathogen *Cryphonectria parasitica*, which also affects other *Castanea* species. Our goal was to engineer a *Bacillus subtilis*, a natural endophyte, to secrete an enzyme that would stop the pathogen from getting through the outer layers of the tree and allow the tree to grow unimpeded by the fungus.
+As part of the Microbial Genetics course (MICR3650), we began a research project to address the near functional extinction of the American Chestnut, *Castanea dentata*, in its native range, under the direction of Dr. Margie Beucher. This ecosystem-altering change was brought about by chestnut blight, a disease caused by the fungal pathogen *Cryphonectria parasitica*, which also affects other *Castanea* species. Our goal was to engineer *Bacillus subtilis*, a natural endophyte and soil microbe, to secrete an enzyme that would stop the pathogen from getting through the outer layers of the tree and allow the tree to grow unimpeded by the fungus.
 
 ### iGEM 2026
 
