@@ -7,7 +7,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## [ABOUT ME & RESEARCH](./about_me/About_Me.html) | [CV](./about_me/HafenJ_resume_2025.pdf) | [BIOL 3100 - Final Project](./final_project/Final_Project.html)##
+## [ABOUT ME & RESEARCH](./about_me/about_me.html) | [CV](./about_me/HafenJ_resume_2025.pdf) | [BIOL 3100 - Final Project](./final_project/final_project.html)##
 
 # Jake Hafen: 
 ### Current Biotechnology and Microbiology Student at UVU
